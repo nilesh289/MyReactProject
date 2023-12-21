@@ -9,4 +9,6 @@
 ## Update Repo
 1. Git init (not necessory).
 2. Git add "StepsForGithub.md"  [File name with extension or folder name"]
-3. 
+3. Git commit -m "New instruction"
+4. Git branch -M main
+5. Git push
